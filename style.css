@@ -1,0 +1,29 @@
+h1{color: blue;
+    font-size:24px;
+    background-color: lightgray;
+}
+
+
+li{
+    color: red;
+    font-size: 18px;
+    background-color: lightyellow;
+}
+
+form{
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.h1class{
+    color: green;
+    font-size: 20px;
+    background-color: lightgreen;
+}
+
+#id1{
+    color: purple;
+    font-size: 22px;
+    background-color: lightpink;
+}
